@@ -1,2 +1,2 @@
 # imdb-queries
-This has some stuff
+Try using the Jupyter notebook to create your own queries!
